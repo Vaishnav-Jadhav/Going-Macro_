@@ -1,0 +1,6 @@
+bootstrap
+bootstrap-icons
+tailwind
+react-router-dom
+framer motion
+react-scroll
